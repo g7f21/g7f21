@@ -3,7 +3,7 @@ Perkenalkan nama Saya **Nuryana Saepul Ramdan**. <br>
 Saya seorang **Mahasiswa** program studi **Fisika** dari **Institut Pertanian Bogor**.
 Saat ini, Saya sedang belajar sains, pemrograman, dan analisis data.
 Jika Kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nuryanasaepulramdan/)ku ya.
-Terima kasih sudah berkunjung ke [GitHub](https://github.com/nspid) ini ya.
+Terima kasih sudah berkunjung ke [GitHub](https://github.com/g7f21) ini ya.
 
 <p align="left">
 <a href="https://github.com/nsfis21">
