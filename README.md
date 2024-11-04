@@ -2,7 +2,10 @@
 Perkenalkan nama Saya **Nuryana Saepul Ramdan**. <br>
 Saat ini, Saya sedang belajar sains dan pemrograman.
 Jika Kamu tertarik untuk berkenalan denganku, mari saling follow di [Linkedin](https://www.linkedin.com/in/nuryanasaepulramdan/) ya.
-Terima kasih sudah berkunjung ke [GitHub](https://github.com/g7f21) ini ya.
+Terima kasih sudah berkunjung ke [GitHub](https://github.com/g7f21) ini.
+
+Salam sehat,
+semangat!
 
 <p align="left">
 <a href="https://github.com/g7f21">
