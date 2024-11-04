@@ -8,7 +8,7 @@ Terima kasih sudah berkunjung ke [GitHub](https://github.com/g7f21) ini ya.
 <p align="left">
 <a href="https://github.com/g7f21">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/> -->
 </a>
 </p>
 
